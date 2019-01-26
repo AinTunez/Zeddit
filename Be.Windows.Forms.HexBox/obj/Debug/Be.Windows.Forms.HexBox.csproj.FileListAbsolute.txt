@@ -1,0 +1,10 @@
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.pdb
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.xml
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.csprojAssemblyReference.cache
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.Properties.Resources.resources
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.csproj.GenerateResource.cache
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.csproj.CoreCompileInputs.cache
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\AinTunez\source\repos\ESD Editor\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.pdb
