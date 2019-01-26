@@ -33,6 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SoulsFormats, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_DLL\SoulsFormats.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
@@ -81,10 +85,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\GitHub\SoulsFormats\SoulsFormats\SoulsFormats.csproj">
-      <Project>{22c664bd-877b-44df-8ecf-2808522469a8}</Project>
-      <Name>SoulsFormats</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Be.Windows.Forms.HexBox\Be.Windows.Forms.HexBox.csproj">
       <Project>{26c5f25f-b450-4caf-ad8b-b8d11ae73457}</Project>
       <Name>Be.Windows.Forms.HexBox</Name>

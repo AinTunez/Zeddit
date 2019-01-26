@@ -1,0 +1,15 @@
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Zeddit.exe.config
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Zeddit.exe
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Zeddit.pdb
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\SoulsFormats.dll
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Be.Windows.Forms.HexBox.pdb
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\bin\Debug\Be.Windows.Forms.HexBox.xml
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.csprojAssemblyReference.cache
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\ESD_Editor.GUI.resources
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\ESD_Editor.Properties.Resources.resources
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.csproj.GenerateResource.cache
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.csproj.CoreCompileInputs.cache
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.csproj.CopyComplete
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.exe
+C:\Users\AinTunez\source\repos\Zeddit\Zeddit\obj\Debug\Zeddit.pdb
